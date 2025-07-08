@@ -1,0 +1,14 @@
+C:\Users\notto\source\repos\1.1.3A\bin\Debug\net8.0\1.1.3A.exe
+C:\Users\notto\source\repos\1.1.3A\bin\Debug\net8.0\1.1.3A.deps.json
+C:\Users\notto\source\repos\1.1.3A\bin\Debug\net8.0\1.1.3A.runtimeconfig.json
+C:\Users\notto\source\repos\1.1.3A\bin\Debug\net8.0\1.1.3A.dll
+C:\Users\notto\source\repos\1.1.3A\bin\Debug\net8.0\1.1.3A.pdb
+C:\Users\notto\source\repos\1.1.3A\obj\Debug\net8.0\1.1.3A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notto\source\repos\1.1.3A\obj\Debug\net8.0\1.1.3A.AssemblyInfoInputs.cache
+C:\Users\notto\source\repos\1.1.3A\obj\Debug\net8.0\1.1.3A.AssemblyInfo.cs
+C:\Users\notto\source\repos\1.1.3A\obj\Debug\net8.0\1.1.3A.csproj.CoreCompileInputs.cache
+C:\Users\notto\source\repos\1.1.3A\obj\Debug\net8.0\1.1.3A.dll
+C:\Users\notto\source\repos\1.1.3A\obj\Debug\net8.0\refint\1.1.3A.dll
+C:\Users\notto\source\repos\1.1.3A\obj\Debug\net8.0\1.1.3A.pdb
+C:\Users\notto\source\repos\1.1.3A\obj\Debug\net8.0\1.1.3A.genruntimeconfig.cache
+C:\Users\notto\source\repos\1.1.3A\obj\Debug\net8.0\ref\1.1.3A.dll
