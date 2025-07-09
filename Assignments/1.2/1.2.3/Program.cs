@@ -5,45 +5,59 @@
         static void Main(string[] args)
         {
             bool exit = false;
-            do
+            while (!exit)
             {
-                Console.WriteLine("Hi! I'll perform calculations for you." +
-                    "\nGive me the first number: ");
-                int firstInt = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("What's the second number?");
-                int secInt = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("What type of calculation do you need?\n" +
-                    "1: Multiplication\n" +
-                    "2: Division\n" +
-                    "3: Addition\n" +
-                    "4: Subtraction\n" +
-                    "5: Exit.\n" +
-                    "6: Continue.");
-                int userInput = Convert.ToInt32(Console.ReadLine());
-                switch (userInput)
                 {
-                    case 1:
-                        Console.WriteLine($"{firstInt} multiplied by {secInt} is {firstInt * secInt}");
-                        break;
-                    case 2:
-                        Console.WriteLine($"{firstInt} divided by {secInt} is {firstInt / secInt} ");
-                        break;
-                    case 3:
-                        Console.WriteLine($"{firstInt} added to {secInt} is {firstInt + secInt}");
-                        break;
-                    case 4:
-                        Console.WriteLine($"{firstInt} subtracted by {secInt} is {firstInt - secInt}");
-                        break;
-                    case 5:
-                        Console.WriteLine($"Goodbye.");
+                    Console.WriteLine("What type of calculation do you need?\n" +
+                        "1: Addition\n" +
+                        "2: Subtraction\n" +
+                        "3: Multiplication\n" +
+                        "4: Division\n" +
+                        "5: Exit.\n" +
+                        "Enter your choice 1-5.");
+
+                    double userChoice = Convert.ToDouble(Console.ReadLine());
+                    if (userChoice == 5)
+                    {
+                        Console.WriteLine("Goodbye!");
                         exit = true;
-                        break;
-                    case 6:
-                        Console.WriteLine($"Restart.");
-                        break;
+                    }
+
+                    Console.WriteLine("Enter the first number: ");
+                    double firstUserNum = Convert.ToDouble(Console.ReadLine());
+                    Console.WriteLine("Enter the second number: ");
+                    double secUserNum = Convert.ToDouble(Console.ReadLine());
+                    switch (userChoice)
+                    {
+                        case 1:
+                            Console.WriteLine($"{firstUserNum} + {secUserNum} = {firstUserNum + secUserNum}");
+                            break;
+                        case 2:
+                            Console.WriteLine($"{firstUserNum} - {secUserNum} = {firstUserNum - secUserNum} ");
+                            break;
+                        case 3:
+                            Console.WriteLine($"{firstUserNum} * {secUserNum} = {firstUserNum * secUserNum}");
+                            break;
+                        case 4:
+                            if (secUserNum == 0)
+                            {
+                                Console.WriteLine("Oops! You can't divide by zero.\n I'll restart the program so you can try again.");
+                            }
+                            else
+                            {
+                                Console.WriteLine($"{firstUserNum} / {secUserNum} = {firstUserNum / secUserNum}");
+                            }
+                            break;
+                        case 5:
+                            Console.WriteLine($"Goodbye.");
+                            exit = true;
+                            break;
+                        default:
+                            Console.WriteLine($"Your entry was invalid. Please select 1-5");
+                            break;
+                    }
                 }
             }
-            while (!exit);
         }
     }
 }
