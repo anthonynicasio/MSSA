@@ -1,0 +1,15 @@
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\ArrayMethod\bin\Debug\net8.0\ArrayMethod.exe
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\ArrayMethod\bin\Debug\net8.0\ArrayMethod.deps.json
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\ArrayMethod\bin\Debug\net8.0\ArrayMethod.runtimeconfig.json
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\ArrayMethod\bin\Debug\net8.0\ArrayMethod.dll
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\ArrayMethod\bin\Debug\net8.0\ArrayMethod.pdb
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\ArrayMethod\obj\Debug\net8.0\ArrayMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\ArrayMethod\obj\Debug\net8.0\ArrayMethod.AssemblyInfoInputs.cache
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\ArrayMethod\obj\Debug\net8.0\ArrayMethod.AssemblyInfo.cs
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\ArrayMethod\obj\Debug\net8.0\ArrayMethod.csproj.CoreCompileInputs.cache
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\ArrayMethod\obj\Debug\net8.0\ArrayMethod.sourcelink.json
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\ArrayMethod\obj\Debug\net8.0\ArrayMethod.dll
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\ArrayMethod\obj\Debug\net8.0\refint\ArrayMethod.dll
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\ArrayMethod\obj\Debug\net8.0\ArrayMethod.pdb
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\ArrayMethod\obj\Debug\net8.0\ArrayMethod.genruntimeconfig.cache
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\ArrayMethod\obj\Debug\net8.0\ref\ArrayMethod.dll

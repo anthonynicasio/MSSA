@@ -1,0 +1,15 @@
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\2.4.1\bin\Debug\net8.0\2.4.1.exe
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\2.4.1\bin\Debug\net8.0\2.4.1.deps.json
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\2.4.1\bin\Debug\net8.0\2.4.1.runtimeconfig.json
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\2.4.1\bin\Debug\net8.0\2.4.1.dll
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\2.4.1\bin\Debug\net8.0\2.4.1.pdb
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\2.4.1\obj\Debug\net8.0\2.4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\2.4.1\obj\Debug\net8.0\2.4.1.AssemblyInfoInputs.cache
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\2.4.1\obj\Debug\net8.0\2.4.1.AssemblyInfo.cs
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\2.4.1\obj\Debug\net8.0\2.4.1.csproj.CoreCompileInputs.cache
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\2.4.1\obj\Debug\net8.0\2.4.1.sourcelink.json
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\2.4.1\obj\Debug\net8.0\2.4.1.dll
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\2.4.1\obj\Debug\net8.0\refint\2.4.1.dll
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\2.4.1\obj\Debug\net8.0\2.4.1.pdb
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\2.4.1\obj\Debug\net8.0\2.4.1.genruntimeconfig.cache
+C:\Users\notto\source\repos\MSSA\Assignments\2.4\2.4.1\obj\Debug\net8.0\ref\2.4.1.dll
