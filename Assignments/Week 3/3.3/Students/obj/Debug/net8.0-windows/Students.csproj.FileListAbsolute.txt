@@ -1,0 +1,17 @@
+C:\Users\notto\source\repos\MSSA\Assignments\Windows Forms\Students\bin\Debug\net8.0-windows\Students.exe
+C:\Users\notto\source\repos\MSSA\Assignments\Windows Forms\Students\bin\Debug\net8.0-windows\Students.deps.json
+C:\Users\notto\source\repos\MSSA\Assignments\Windows Forms\Students\bin\Debug\net8.0-windows\Students.runtimeconfig.json
+C:\Users\notto\source\repos\MSSA\Assignments\Windows Forms\Students\bin\Debug\net8.0-windows\Students.dll
+C:\Users\notto\source\repos\MSSA\Assignments\Windows Forms\Students\bin\Debug\net8.0-windows\Students.pdb
+C:\Users\notto\source\repos\MSSA\Assignments\Windows Forms\Students\obj\Debug\net8.0-windows\Students.Form1.resources
+C:\Users\notto\source\repos\MSSA\Assignments\Windows Forms\Students\obj\Debug\net8.0-windows\Students.csproj.GenerateResource.cache
+C:\Users\notto\source\repos\MSSA\Assignments\Windows Forms\Students\obj\Debug\net8.0-windows\Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notto\source\repos\MSSA\Assignments\Windows Forms\Students\obj\Debug\net8.0-windows\Students.AssemblyInfoInputs.cache
+C:\Users\notto\source\repos\MSSA\Assignments\Windows Forms\Students\obj\Debug\net8.0-windows\Students.AssemblyInfo.cs
+C:\Users\notto\source\repos\MSSA\Assignments\Windows Forms\Students\obj\Debug\net8.0-windows\Students.csproj.CoreCompileInputs.cache
+C:\Users\notto\source\repos\MSSA\Assignments\Windows Forms\Students\obj\Debug\net8.0-windows\Students.sourcelink.json
+C:\Users\notto\source\repos\MSSA\Assignments\Windows Forms\Students\obj\Debug\net8.0-windows\Students.dll
+C:\Users\notto\source\repos\MSSA\Assignments\Windows Forms\Students\obj\Debug\net8.0-windows\refint\Students.dll
+C:\Users\notto\source\repos\MSSA\Assignments\Windows Forms\Students\obj\Debug\net8.0-windows\Students.pdb
+C:\Users\notto\source\repos\MSSA\Assignments\Windows Forms\Students\obj\Debug\net8.0-windows\Students.genruntimeconfig.cache
+C:\Users\notto\source\repos\MSSA\Assignments\Windows Forms\Students\obj\Debug\net8.0-windows\ref\Students.dll
