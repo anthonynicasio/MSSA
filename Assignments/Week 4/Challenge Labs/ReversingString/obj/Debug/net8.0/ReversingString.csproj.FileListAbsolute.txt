@@ -1,0 +1,15 @@
+C:\Users\notto\source\repos\MSSA\Assignments\Week 4\Challenge Labs\ReversingString\bin\Debug\net8.0\ReversingString.exe
+C:\Users\notto\source\repos\MSSA\Assignments\Week 4\Challenge Labs\ReversingString\bin\Debug\net8.0\ReversingString.deps.json
+C:\Users\notto\source\repos\MSSA\Assignments\Week 4\Challenge Labs\ReversingString\bin\Debug\net8.0\ReversingString.runtimeconfig.json
+C:\Users\notto\source\repos\MSSA\Assignments\Week 4\Challenge Labs\ReversingString\bin\Debug\net8.0\ReversingString.dll
+C:\Users\notto\source\repos\MSSA\Assignments\Week 4\Challenge Labs\ReversingString\bin\Debug\net8.0\ReversingString.pdb
+C:\Users\notto\source\repos\MSSA\Assignments\Week 4\Challenge Labs\ReversingString\obj\Debug\net8.0\ReversingString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notto\source\repos\MSSA\Assignments\Week 4\Challenge Labs\ReversingString\obj\Debug\net8.0\ReversingString.AssemblyInfoInputs.cache
+C:\Users\notto\source\repos\MSSA\Assignments\Week 4\Challenge Labs\ReversingString\obj\Debug\net8.0\ReversingString.AssemblyInfo.cs
+C:\Users\notto\source\repos\MSSA\Assignments\Week 4\Challenge Labs\ReversingString\obj\Debug\net8.0\ReversingString.csproj.CoreCompileInputs.cache
+C:\Users\notto\source\repos\MSSA\Assignments\Week 4\Challenge Labs\ReversingString\obj\Debug\net8.0\ReversingString.sourcelink.json
+C:\Users\notto\source\repos\MSSA\Assignments\Week 4\Challenge Labs\ReversingString\obj\Debug\net8.0\ReversingString.dll
+C:\Users\notto\source\repos\MSSA\Assignments\Week 4\Challenge Labs\ReversingString\obj\Debug\net8.0\refint\ReversingString.dll
+C:\Users\notto\source\repos\MSSA\Assignments\Week 4\Challenge Labs\ReversingString\obj\Debug\net8.0\ReversingString.pdb
+C:\Users\notto\source\repos\MSSA\Assignments\Week 4\Challenge Labs\ReversingString\obj\Debug\net8.0\ReversingString.genruntimeconfig.cache
+C:\Users\notto\source\repos\MSSA\Assignments\Week 4\Challenge Labs\ReversingString\obj\Debug\net8.0\ref\ReversingString.dll
