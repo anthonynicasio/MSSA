@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SumStringDigits")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0437fd99dfa2e551619a983d6095164e9541076f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+914f28552993491cad4a801c198b16a06ff69ef2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SumStringDigits")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SumStringDigits")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

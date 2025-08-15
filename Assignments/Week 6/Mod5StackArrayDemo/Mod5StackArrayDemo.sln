@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod5StackArrayDemo", "Mod5StackArrayDemo.csproj", "{299801EB-956F-4722-9E1A-F81534B16A44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{299801EB-956F-4722-9E1A-F81534B16A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299801EB-956F-4722-9E1A-F81534B16A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299801EB-956F-4722-9E1A-F81534B16A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299801EB-956F-4722-9E1A-F81534B16A44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6DA86BC-9BDF-45BA-A28A-406DF4FFC605}
+	EndGlobalSection
+EndGlobal

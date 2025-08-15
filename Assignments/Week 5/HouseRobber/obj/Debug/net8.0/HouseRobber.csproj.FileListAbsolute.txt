@@ -1,0 +1,15 @@
+C:\Users\notto\source\repos\MSSA\Assignments\Week 5\HouseRobber\bin\Debug\net8.0\HouseRobber.exe
+C:\Users\notto\source\repos\MSSA\Assignments\Week 5\HouseRobber\bin\Debug\net8.0\HouseRobber.deps.json
+C:\Users\notto\source\repos\MSSA\Assignments\Week 5\HouseRobber\bin\Debug\net8.0\HouseRobber.runtimeconfig.json
+C:\Users\notto\source\repos\MSSA\Assignments\Week 5\HouseRobber\bin\Debug\net8.0\HouseRobber.dll
+C:\Users\notto\source\repos\MSSA\Assignments\Week 5\HouseRobber\bin\Debug\net8.0\HouseRobber.pdb
+C:\Users\notto\source\repos\MSSA\Assignments\Week 5\HouseRobber\obj\Debug\net8.0\HouseRobber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notto\source\repos\MSSA\Assignments\Week 5\HouseRobber\obj\Debug\net8.0\HouseRobber.AssemblyInfoInputs.cache
+C:\Users\notto\source\repos\MSSA\Assignments\Week 5\HouseRobber\obj\Debug\net8.0\HouseRobber.AssemblyInfo.cs
+C:\Users\notto\source\repos\MSSA\Assignments\Week 5\HouseRobber\obj\Debug\net8.0\HouseRobber.csproj.CoreCompileInputs.cache
+C:\Users\notto\source\repos\MSSA\Assignments\Week 5\HouseRobber\obj\Debug\net8.0\HouseRobber.sourcelink.json
+C:\Users\notto\source\repos\MSSA\Assignments\Week 5\HouseRobber\obj\Debug\net8.0\HouseRobber.dll
+C:\Users\notto\source\repos\MSSA\Assignments\Week 5\HouseRobber\obj\Debug\net8.0\refint\HouseRobber.dll
+C:\Users\notto\source\repos\MSSA\Assignments\Week 5\HouseRobber\obj\Debug\net8.0\HouseRobber.pdb
+C:\Users\notto\source\repos\MSSA\Assignments\Week 5\HouseRobber\obj\Debug\net8.0\HouseRobber.genruntimeconfig.cache
+C:\Users\notto\source\repos\MSSA\Assignments\Week 5\HouseRobber\obj\Debug\net8.0\ref\HouseRobber.dll
