@@ -1,0 +1,15 @@
+C:\Users\notto\source\repos\MSSA\Assignments\Week 6\6.2\6.2.1\bin\Debug\net8.0\6.2.1.exe
+C:\Users\notto\source\repos\MSSA\Assignments\Week 6\6.2\6.2.1\bin\Debug\net8.0\6.2.1.deps.json
+C:\Users\notto\source\repos\MSSA\Assignments\Week 6\6.2\6.2.1\bin\Debug\net8.0\6.2.1.runtimeconfig.json
+C:\Users\notto\source\repos\MSSA\Assignments\Week 6\6.2\6.2.1\bin\Debug\net8.0\6.2.1.dll
+C:\Users\notto\source\repos\MSSA\Assignments\Week 6\6.2\6.2.1\bin\Debug\net8.0\6.2.1.pdb
+C:\Users\notto\source\repos\MSSA\Assignments\Week 6\6.2\6.2.1\obj\Debug\net8.0\6.2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notto\source\repos\MSSA\Assignments\Week 6\6.2\6.2.1\obj\Debug\net8.0\6.2.1.AssemblyInfoInputs.cache
+C:\Users\notto\source\repos\MSSA\Assignments\Week 6\6.2\6.2.1\obj\Debug\net8.0\6.2.1.AssemblyInfo.cs
+C:\Users\notto\source\repos\MSSA\Assignments\Week 6\6.2\6.2.1\obj\Debug\net8.0\6.2.1.csproj.CoreCompileInputs.cache
+C:\Users\notto\source\repos\MSSA\Assignments\Week 6\6.2\6.2.1\obj\Debug\net8.0\6.2.1.sourcelink.json
+C:\Users\notto\source\repos\MSSA\Assignments\Week 6\6.2\6.2.1\obj\Debug\net8.0\6.2.1.dll
+C:\Users\notto\source\repos\MSSA\Assignments\Week 6\6.2\6.2.1\obj\Debug\net8.0\refint\6.2.1.dll
+C:\Users\notto\source\repos\MSSA\Assignments\Week 6\6.2\6.2.1\obj\Debug\net8.0\6.2.1.pdb
+C:\Users\notto\source\repos\MSSA\Assignments\Week 6\6.2\6.2.1\obj\Debug\net8.0\6.2.1.genruntimeconfig.cache
+C:\Users\notto\source\repos\MSSA\Assignments\Week 6\6.2\6.2.1\obj\Debug\net8.0\ref\6.2.1.dll
