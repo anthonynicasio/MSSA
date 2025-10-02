@@ -1,0 +1,16 @@
+C:\Users\notto\OneDrive\Documents\MSSA\Week 10\Mod6NotepadDemo\Mod6NotepadDemo\bin\Debug\net9.0-windows\Mod6NotepadDemo.exe
+C:\Users\notto\OneDrive\Documents\MSSA\Week 10\Mod6NotepadDemo\Mod6NotepadDemo\bin\Debug\net9.0-windows\Mod6NotepadDemo.deps.json
+C:\Users\notto\OneDrive\Documents\MSSA\Week 10\Mod6NotepadDemo\Mod6NotepadDemo\bin\Debug\net9.0-windows\Mod6NotepadDemo.runtimeconfig.json
+C:\Users\notto\OneDrive\Documents\MSSA\Week 10\Mod6NotepadDemo\Mod6NotepadDemo\bin\Debug\net9.0-windows\Mod6NotepadDemo.dll
+C:\Users\notto\OneDrive\Documents\MSSA\Week 10\Mod6NotepadDemo\Mod6NotepadDemo\bin\Debug\net9.0-windows\Mod6NotepadDemo.pdb
+C:\Users\notto\OneDrive\Documents\MSSA\Week 10\Mod6NotepadDemo\Mod6NotepadDemo\obj\Debug\net9.0-windows\Mod6NotepadDemo.Form1.resources
+C:\Users\notto\OneDrive\Documents\MSSA\Week 10\Mod6NotepadDemo\Mod6NotepadDemo\obj\Debug\net9.0-windows\Mod6NotepadDemo.csproj.GenerateResource.cache
+C:\Users\notto\OneDrive\Documents\MSSA\Week 10\Mod6NotepadDemo\Mod6NotepadDemo\obj\Debug\net9.0-windows\Mod6NotepadDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notto\OneDrive\Documents\MSSA\Week 10\Mod6NotepadDemo\Mod6NotepadDemo\obj\Debug\net9.0-windows\Mod6NotepadDemo.AssemblyInfoInputs.cache
+C:\Users\notto\OneDrive\Documents\MSSA\Week 10\Mod6NotepadDemo\Mod6NotepadDemo\obj\Debug\net9.0-windows\Mod6NotepadDemo.AssemblyInfo.cs
+C:\Users\notto\OneDrive\Documents\MSSA\Week 10\Mod6NotepadDemo\Mod6NotepadDemo\obj\Debug\net9.0-windows\Mod6NotepadDemo.csproj.CoreCompileInputs.cache
+C:\Users\notto\OneDrive\Documents\MSSA\Week 10\Mod6NotepadDemo\Mod6NotepadDemo\obj\Debug\net9.0-windows\Mod6NotepadDemo.dll
+C:\Users\notto\OneDrive\Documents\MSSA\Week 10\Mod6NotepadDemo\Mod6NotepadDemo\obj\Debug\net9.0-windows\refint\Mod6NotepadDemo.dll
+C:\Users\notto\OneDrive\Documents\MSSA\Week 10\Mod6NotepadDemo\Mod6NotepadDemo\obj\Debug\net9.0-windows\Mod6NotepadDemo.pdb
+C:\Users\notto\OneDrive\Documents\MSSA\Week 10\Mod6NotepadDemo\Mod6NotepadDemo\obj\Debug\net9.0-windows\Mod6NotepadDemo.genruntimeconfig.cache
+C:\Users\notto\OneDrive\Documents\MSSA\Week 10\Mod6NotepadDemo\Mod6NotepadDemo\obj\Debug\net9.0-windows\ref\Mod6NotepadDemo.dll
