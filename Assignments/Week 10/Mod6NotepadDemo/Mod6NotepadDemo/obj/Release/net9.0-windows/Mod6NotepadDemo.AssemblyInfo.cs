@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mod6NotepadDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39eea6fe0eadfd73f49e3adac4fbc6b745f2e87f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+243f73d039ff39bc5d8d97005242436f9faee5c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mod6NotepadDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mod6NotepadDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
